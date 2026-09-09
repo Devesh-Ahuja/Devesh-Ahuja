@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devesh-Ahuja
 - 👀 I like making products
 - 🌱 I’m currently early career UX designer
-- 💞️ I’m Product and interaction designer with a systems-thinking approach
+- 💞️ I’m focused on Product and interaction design with a systems-thinking approach
 - 📫 How to reach me @deveshahuja7227@gmail.com
 
 <!---
