@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devesh-Ahuja
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Unity and Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I like making products
+- 🌱 I’m currently early career UX designer
+- 💞️ I’m Product and interaction designer with a systems-thinking approach
 - 📫 How to reach me @deveshahuja7227@gmail.com
 
 <!---
